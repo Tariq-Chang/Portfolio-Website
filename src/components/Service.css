@@ -1,0 +1,36 @@
+
+.service__card{
+    width:100%;
+    height:250px;
+    background:#003D50;
+    color:white;
+    padding:10px;
+    border-radius:2px;
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    align-items:center;
+    text-align:center;
+    cursor:pointer;
+}
+
+.service__card:hover{
+    background:#00607e;
+
+}
+.service__card >  img{
+    object-fit:contain;
+    width:120px;
+    height:100px;
+}
+
+.service__card > h1{
+    font-weight:normal;
+    font-size:28px;
+}
+
+.service__card > p{
+    color:#FFF;
+    opacity:.50;
+    font-size:18px;
+}

@@ -1,0 +1,14 @@
+
+.projects{
+    height:fit-content;
+    background:#eee;
+    padding-bottom:10px;
+}
+
+.projects__gridContainer{
+    display:grid;
+    grid-template-columns: repeat(auto-fit,minmax(400px,1fr));
+    grid-template-rows: auto;
+    gap:10px;
+    margin:20px 40px;
+}

@@ -1,0 +1,19 @@
+
+.services{
+    height:fit-content;
+}
+
+.services > h1{
+    padding:20px;
+    text-align:center;
+    font-weight:500;
+    font-size:48px;
+    color:var(--sidebar-color);
+}
+.services__cards{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+    padding:20px;
+    gap:10px;
+    margin:0px 20px;
+}
