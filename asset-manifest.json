@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.a569cfb6.chunk.css",
-    "main.js": "/portfolio-website/static/js/main.50563035.chunk.js",
-    "main.js.map": "/portfolio-website/static/js/main.50563035.chunk.js.map",
-    "runtime-main.js": "/portfolio-website/static/js/runtime-main.d61d8c7a.js",
-    "runtime-main.js.map": "/portfolio-website/static/js/runtime-main.d61d8c7a.js.map",
-    "static/js/2.9d87dd84.chunk.js": "/portfolio-website/static/js/2.9d87dd84.chunk.js",
-    "static/js/2.9d87dd84.chunk.js.map": "/portfolio-website/static/js/2.9d87dd84.chunk.js.map",
-    "index.html": "/portfolio-website/index.html",
-    "static/css/main.a569cfb6.chunk.css.map": "/portfolio-website/static/css/main.a569cfb6.chunk.css.map",
-    "static/js/2.9d87dd84.chunk.js.LICENSE.txt": "/portfolio-website/static/js/2.9d87dd84.chunk.js.LICENSE.txt",
-    "static/media/coding-quiz.63480baa.png": "/portfolio-website/static/media/coding-quiz.63480baa.png",
-    "static/media/Homepage.css": "/portfolio-website/static/media/header-background.3b9d0a7b.jpg",
-    "static/media/profile.637d2e96.jpg": "/portfolio-website/static/media/profile.637d2e96.jpg"
+    "main.css": "/Portfolio-Website/static/css/main.54c34e51.chunk.css",
+    "main.js": "/Portfolio-Website/static/js/main.50563035.chunk.js",
+    "main.js.map": "/Portfolio-Website/static/js/main.50563035.chunk.js.map",
+    "runtime-main.js": "/Portfolio-Website/static/js/runtime-main.12468495.js",
+    "runtime-main.js.map": "/Portfolio-Website/static/js/runtime-main.12468495.js.map",
+    "static/js/2.9d87dd84.chunk.js": "/Portfolio-Website/static/js/2.9d87dd84.chunk.js",
+    "static/js/2.9d87dd84.chunk.js.map": "/Portfolio-Website/static/js/2.9d87dd84.chunk.js.map",
+    "index.html": "/Portfolio-Website/index.html",
+    "static/css/main.54c34e51.chunk.css.map": "/Portfolio-Website/static/css/main.54c34e51.chunk.css.map",
+    "static/js/2.9d87dd84.chunk.js.LICENSE.txt": "/Portfolio-Website/static/js/2.9d87dd84.chunk.js.LICENSE.txt",
+    "static/media/coding-quiz.63480baa.png": "/Portfolio-Website/static/media/coding-quiz.63480baa.png",
+    "static/media/Homepage.css": "/Portfolio-Website/static/media/header-background.3b9d0a7b.jpg",
+    "static/media/profile.637d2e96.jpg": "/Portfolio-Website/static/media/profile.637d2e96.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d61d8c7a.js",
+    "static/js/runtime-main.12468495.js",
     "static/js/2.9d87dd84.chunk.js",
-    "static/css/main.a569cfb6.chunk.css",
+    "static/css/main.54c34e51.chunk.css",
     "static/js/main.50563035.chunk.js"
   ]
 }
