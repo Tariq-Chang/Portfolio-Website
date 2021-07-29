@@ -2,7 +2,7 @@
   "name": "portfolio-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Tariq-Hussain.github.io/portfolio-website",
+  "homepage": "http://Tariq-Chang.github.io/Portfolio-Website",
   "dependencies": {
     "@material-ui/icons": "^4.11.2",
     "@reduxjs/toolkit": "^1.6.1",
