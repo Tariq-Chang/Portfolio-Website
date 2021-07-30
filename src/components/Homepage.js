@@ -30,7 +30,6 @@ function Homepage() {
             </div>
             <div className="homepage__explore">
                 <a href="#projects">
-                    {/* <ChevronRight style={{ fontSize: 72, color: "yellow", transform: "rotateZ(90deg)" }} /> */}
                     <KeyboardArrowDown style={{ fontSize: 60, color: "yellow" }} />
                 </a>
             </div>

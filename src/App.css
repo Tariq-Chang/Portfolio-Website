@@ -4,6 +4,7 @@
 }
 .App{
     display:flex;
+    
 }
 
 .App > :first-child{

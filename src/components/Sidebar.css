@@ -137,7 +137,10 @@
     .sidebar > p{
         display:none;
     }    
-    
+    .homepage__description{
+        margin-right:50px;
+        margin-top:50px;
+    }
 }
 
 @media(max-width:410px){
