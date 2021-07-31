@@ -29,7 +29,7 @@ function Homepage() {
                 </div>
             </div>
             <div className="homepage__explore">
-                <a href="#projects">
+                <a href="#projects" className="homepage__exploreLink">
                     <KeyboardArrowDown style={{ fontSize: 60, color: "yellow" }} />
                 </a>
             </div>

@@ -4,7 +4,6 @@
 }
 .App{
     display:flex;
-    
 }
 
 .App > :first-child{
@@ -15,3 +14,4 @@
 .App > :nth-child(2){
     flex:0.80;
 }
+

@@ -12,3 +12,24 @@
     gap:10px;
     margin:20px 40px;
 }
+.projects__heading{
+    text-align: center;
+    font-size: 42px;
+    color: var(--sidebar-color);
+    padding: 20px 0px;
+    font-weight: 500;
+}
+
+@media(max-width:710px){
+    .projects{
+        margin-right:30vw;
+    }
+}
+
+@media(max-width:420px){
+    .projects__heading{
+        font-size:36px;
+        text-align:left;
+        margin-left:100px;
+    }
+}

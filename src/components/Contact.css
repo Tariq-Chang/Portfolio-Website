@@ -73,3 +73,50 @@
     font-size: 40px !important;
     color: white;
 }
+
+@media(max-width:710px){
+    .contact__left{
+        margin-right:30vw;
+    }
+
+    .contact__left{
+        width:100vw;
+    }
+}
+
+@media(max-width:420px){
+    .contact__left{
+        width:100vw;
+    }
+    .contact__right{
+        width:100vw;
+    }
+
+    .contact__left > *{
+        width:80vw;
+    }
+    
+    .contact__right > *{
+        width:80vw;
+        font-size:16px;
+    }
+
+    .contact__icon{
+        font-size:30px !important;
+    }
+
+    .contact__email,
+.contact__phone,
+.contact__github,
+.contact__whatsapp{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content:center;
+    padding-right:20px;
+}
+    
+    .contact__left > h1{
+        font-size:36px;
+    }
+}

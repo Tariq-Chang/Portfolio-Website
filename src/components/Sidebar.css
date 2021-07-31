@@ -79,8 +79,8 @@
 @media(max-width:710px){
 
     .sidebar__profileImage{
-        width:105px !important;
-        height:100px !important;
+        width:115px !important;
+        height:110px !important;
     }
 
     .sidebar > p{
@@ -104,10 +104,8 @@
         position:absolute;
         left:0;
         top:0;
-        background-color:#005a75;
         z-index:10;
         height:100%;
-        width:30%;
         padding-top:20px;
     }
     .sidebar__hameburgerMenu{
@@ -137,11 +135,9 @@
     .sidebar > p{
         display:none;
     }    
-    .homepage__description{
-        margin-right:50px;
-        margin-top:50px;
-    }
+    
 }
+
 
 @media(max-width:410px){
     .sidebar__profileImage{

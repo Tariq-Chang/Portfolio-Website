@@ -7,7 +7,7 @@ function Projects() {
     let gitLink = "https://tariq-chang.github.io/coding-quiz/";
     return (
         <div className="projects" id="projects">
-            <h1 style={{ textAlign: "center", fontSize: 48, color: "var(--sidebar-color)", padding: "20px 0px", fontWeight: "500" }}>Projects</h1>
+            <h1 className="projects__heading">Projects</h1>
 
             <div className="projects__gridContainer">
                 <Project gitLink={gitLink} surgeLink={surgeLink} />

@@ -17,3 +17,37 @@
     gap:10px;
     margin:0px 20px;
 }
+
+@media(max-width:710px){
+    .services{
+        margin-right:30vw;
+    }
+}
+
+@media(max-width:480px){
+    .services{
+        margin-right:150px;
+    }
+}
+
+@media(max-width:450px){
+    .services{
+        margin-right:180px;
+    }
+}
+
+@media(max-width:410px){
+    .services{
+        margin-right:200px;
+    }
+}
+
+@media(max-width:380px){
+    .services{
+        margin-right:220px;
+    }
+
+    .services > h1{
+        font-size:36px;
+    }
+}
